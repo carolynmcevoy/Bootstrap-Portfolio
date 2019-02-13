@@ -1,0 +1,21 @@
+body {
+    margin: 0%;
+    background-color: beige;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+
+}
+
+header {
+    background: brown;
+}
+
+.logo {
+    float: left;
+}
+
